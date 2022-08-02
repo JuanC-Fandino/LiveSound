@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LiveSound</string>
+    <string name="mensaje_bienvenida">Bienvenido a LiveSound la aplicación que le permitirá encontrar la conexión ideal para su sistema de refuerzo sonoro.</string>
+    <string name="botoninicio">EMPEZAR</string>
+    <string name="contentdescrip1">logo</string>
+    <string name="titulo1">Características del amplificador</string>
+    <string name="titulo2">Características del altavoz</string>
+    <string name="botonmain">Calcular</string>
+    <string name="n_mero_de_altavoces">Número de Altavoces:</string>
+    <string name="impedancia_de_carga">Impedancia de Carga:</string>
+    <string name="w">W</string>
+    <string name="nivel_de_salida_de_potencia">Nivel de salida de potencia:</string>
+    <string name="potencia_programa">Potencia Programa:</string>
+    <string name="sensibilidad">Sensibilidad:</string>
+    <string name="db_spl_1m_1w">dB SPL (1m / 1W)</string>
+    <string name="impedancia_nominal">Impedancia Nominal:</string>
+    <string name="distancia_a_la_cual_quiere_conocer_el_spl">Distancia a la cual quiere conocer el SPL:</string>
+    <string name="m">m</string>
+    <string name="spl_a_1_metro">SPL a 1 metro:</string>
+    <string name="spl_a_x_metros">SPL a x metros:</string>
+    <string name="conexi_n_ideal">Conexión Ideal:</string>
+    <string name="contentdescrip2">circuitoconexion</string>
+    <string name="errorpotencia">La potencia del altavoz (o altavoces) es mayor a la que el sistema de amplificación puede entregar, se recomienda un 20% mas del mínimo requerido. En este caso: </string>
+
+</resources>
